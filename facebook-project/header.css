@@ -1,0 +1,66 @@
+.rounded-icon {
+    font-size: 42px;
+    border-radius: 50%;
+    color: #385898;
+}
+.logo{
+    background: white;
+    padding-top: 6px;
+}
+.icons-center{
+    color: lightgray;
+}
+.search{
+    font-size: 32px;
+}
+input{
+    color: white;
+    border-radius: 20px;
+    padding: 4px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.icons-center, .icon-right{
+    font-size: 25px;
+    padding-top: 12px;
+}
+.icon-right{
+    margin-right: 40px;
+}
+.fas.fa-ellipsis-v{
+    padding: 12px;
+    color: black;
+    border-radius: 50%;
+    background: lightgray;
+}
+.fab.fa-facebook-messenger{
+    padding: 12px;
+    color: black;
+    border-radius: 50%;
+    background: lightgray;
+}
+.fas.fa-bell{
+    padding: 12px;
+    color: black;
+    border-radius: 50%;
+    background: lightgray;
+}
+.header{
+    padding: 0.2em;
+    background: white;
+    margin-bottom: 12px;
+}
+a{
+    text-decoration: none;
+}
+.profile{
+    width: 50px;
+    border-radius: 50%;
+}

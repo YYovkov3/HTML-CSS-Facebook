@@ -1,0 +1,59 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.inline{
+    display: inline;
+}
+.menu .block{
+    list-style-type: none;
+    display: block;
+}
+.information a{
+    text-decoration: none;
+    color: black;
+}
+.information i{
+    color: #21A3EF;
+}
+.menu a{
+    text-decoration: none;
+}
+.center{
+    padding: 0.6em;
+    background: white;
+}
+h2, span{
+    background: white;
+}
+.contacts{
+    margin-right: 40px;
+}
+.contacts-header{
+    display: flex;
+    gap: 15px;
+    padding: 0.4em;
+}
+.li-icons{
+    display: inline;
+}
+.block{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.groups-in{
+    margin-left: 20px;
+}
+.block, li{
+    margin-bottom: 22px;
+}
+.block, h4{
+    margin-bottom: 22px;
+}
+.taka{
+    border-bottom: 1px solid black;
+    margin-bottom: 22px;
+}
+.grouping{
+    width: 60px;
+}
